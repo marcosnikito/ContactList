@@ -1,7 +1,7 @@
 Este projeto foi criado com  [React App](https://github.com/facebookincubator/create-react-app).
 
 ## Table of Contents
-[como executar o projeto]( #como-executar)
+- [como executar o projeto]( #como-executar)
 - [avaliable scripts](#available-scripts)
   - [npm start](#npm-start)
   - [npm test](#npm-test)
@@ -11,7 +11,7 @@ Este projeto foi criado com  [React App](https://github.com/facebookincubator/cr
 
 ## como-executar
 
-Com o [node.js] (https://nodejs.org/en/) instalado,
+Com o [node.js](https://nodejs.org/en/) instalado,
 Caso esteja utilizando Linux inicie o terminal  
 E digite as seguintes linhas de comando:
 
