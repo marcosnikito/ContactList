@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.space{
+  padding-bottom: 10px;
+}
+.name{
+  font-size: 18px;
+}
+.job{
+  font-size: 15px;
+}
+.contact-container{
+  border: 1px solid #cccccc;
+  cursor: pointer;
+}
+.row{
+  padding-top: 10px;
+}
+.rounded{
+  width: 60%;
+}
+.form-control{
+  padding-left: 0px;
+}
+.sidebar-head{
+  padding: 0px;
+}
+.input-search{
+  min-width: 100%;
+}
+.search-container{
+  width: 100%;
+  padding: 0px;
+}
+.bordered{
+  border-bottom: 1px solid #cccccc;
+  min-width: 10%;
+  text-align: center;
+}
+.bordered:hover{
+  background-color: #cccccc;
+}
+.img{
+  text-align: center;
+}
+.contact-center{
+  text-align: center;
+}
+.img-contact-full{
+  width: 200px;
+  cursor: pointer;
+}
+#wrapper{
+  position: fixed;
+  width: 100%;
+}
+#col-contacts{
+  position: fixed;
+  max-height: 100%;
+  overflow: scroll;
+  max-width: 25%;
+  min-width: 10%;
+  overflow-x: hidden;
+}
+#contact-center{
+  margin-left: 30%;
+  float: right;
+}
+.details-contact-full{
+  text-align: justify;
+}
+#search{
+  max-width: 100%;
+  padding-left: 3px;
+}
